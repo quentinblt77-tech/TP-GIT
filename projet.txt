@@ -1,1 +1,2 @@
 Version 1 : Fonction bien
+Version 2 : Ajout feature A
